@@ -1,5 +1,5 @@
 language: go
-script:go get github.com/Karim9871/QualityControl && go test
+script: go get github.com/Karim9871/QualityControl && go test
 
   
  
